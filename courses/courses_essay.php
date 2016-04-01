@@ -56,12 +56,12 @@
 			        <h3>Luke Lee</h3>
 			        <p>Educational Background:<br>BoC, University of British Columbia</p><br>
 			        <p>Experience:<br>Senior Coordinator TD</p><br>
-			        <p>Motivation:<br>Genius is one percent inspiration, ninety-nine percent perspiration.<br>~Thomas Edison</p>
+			        <p>Motivation:<br>"Genius is one percent inspiration, ninety-nine percent perspiration."<br>~Thomas Edison</p>
 		        </div>
 			
 			    <div class="review">
 			        <p>Review</p>
-                    <p>Luke is a nice and friendly guy. He teaches students with passion. I learn many useful writing techniques from him.<br>~Anonymous</p>
+                    <p>"Luke is a nice and friendly guy. He teaches students with passion. I learn many useful writing techniques from him."<br>~Anonymous</p>
 			    </div>
 		    </div>
 			
