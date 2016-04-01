@@ -63,7 +63,7 @@
 			
 		        <div class="review">
 			        <p>Review</p>
-			        <p>"Eric is an amazing tutor. His lectures are very clear and concise. I wish I'll see him again in my other physics courses." ~ Queenie, 1st year university, Vancouver</p>
+			        <p>"Eric is an amazing tutor. His lectures are very clear and concise. I wish I'll see him again in my other computer courses." ~ Queenie, 1st year university, Vancouver</p>
 		        </div>
 	        </div>
 
