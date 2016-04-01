@@ -60,7 +60,7 @@
 			
 			    <div class="review">
 			        <p>Review</p>
-                    <p>He changed my life and made me the writer and person I am today. Sensing my self-doubt, he made me write without editing myself and taught me not to listen to negativity. Take his courses because they will teach you more than how to write; they will teach you how to live.<br>~Anonymous</p>
+                    <p>"He changed my life and made me the writer and person I am today. Sensing my self-doubt, he made me write without editing myself and taught me not to listen to negativity. Take his courses because they will teach you more than how to write; they will teach you how to live."<br>~Anonymous</p>
 			    </div>
 		    </div>
 			
