@@ -3,10 +3,6 @@
 body{
     /* Sources: https://wallpaperscraft.com/image/keyboard_half_close-up_80011_3840x2160.jpg */
     background-image: url("../images/light-background.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center 25%;
-    
 }
 
 #main-content {
