@@ -61,7 +61,7 @@
 			
 		        <div class="review">
 			        <p>Review</p><br>
-			        <p>"I can say that everything good about my current look is due to him. My muscles are more defined, I'm starting to get more compliments and my confidence as gone up. I owe it all to this man. His expertise and motivation got me through all the pain and suffering. He convinced me it was all worth it and you know what? It really was." ~Ryan, 1st year University, Burnaby</p>
+			        <p>"My muscles are more defined, I'm starting to get more compliments and my confidence as gone up. I owe it all to this man. His expertise and motivation got me through all the pain and suffering. He convinced me it was all worth it and you know what? It really was." ~Ryan, 1st year University, Burnaby</p>
 		        </div>
 	        </div>
 
