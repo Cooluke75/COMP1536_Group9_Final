@@ -61,7 +61,7 @@
 			
 		        <div class="review">
 			        <p>Review</p><br>
-			        <p>"Fantastic tutor. He's a spectacular mentor and friend. He knows everything there is to know about badminton and helped to improve all aspects of my game. He teaches efficiently and effectively with lots of tips to let you get better." ~Michael, 3st year University, Vancouver</p>
+			        <p>"Fantastic tutor. He's a spectacular mentor and friend. He knows everything there is to know about badminton and helped to improve all aspects of my game. He teaches efficiently and effectively with lots of tips to help you get better." ~Michael, 3st year University, Vancouver</p>
 		        </div>
 	        </div>
 
