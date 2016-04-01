@@ -72,7 +72,7 @@
 			        <h3>Luke Lee </h3>
 			        <p>Educational Background:<br><br>BoC, University of British Columbia</p><br>
 			        <p>Experience:<br><br>Senior Coordinator TD</p><br>
-			        <p>Motivation:<br><br>Genius is one percent inspiration, ninety-nine percent perspiration. </p>
+			        <p>Motivation:<br><br>"Genius is one percent inspiration, ninety-nine percent perspiration." </p>
 			        <p>~Thomas Edison</p>
 				
 		        </div>
