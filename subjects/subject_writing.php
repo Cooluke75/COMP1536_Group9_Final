@@ -61,24 +61,24 @@
 		    <div class="row2">
 			
 			    <a href="../courses/courses_essay.php">
-			    <div id ="c1" class="courses">
-			    <h3 id="c1title">Essay Writing</h3>
-			    <p>Throughout your academic career, you will often encounter writing an essay. You may be assigned an essay for class, enter an essay contest or write essays for college admissions. This course will enhance your communication and essay writing skills.</p>
-			    </div>
+			        <div id ="c1" class="courses">
+			            <h3 id="c1title">Essay Writing</h3>
+			            <p>Throughout your academic career, you will often encounter writing an essay. You may be assigned an essay for class, enter an essay contest or write essays for college admissions. This course will enhance your communication and essay writing skills.</p>
+			        </div>
 			    </a>
 			
 			    <a href="../courses/courses_report.php">
-			    <div id ="c2" class="courses">
-			    <h3 id="c2title">Professional Reports</h3>
-			    <p>Writing a professional report can sometimes be time consuming and stressful. This course will prepare you for general professional reports you may need to write at work or in school and provide you with a guide on how to write an effective report efficiently.</p>
-			    </div>
+			        <div id ="c2" class="courses">
+			            <h3 id="c2title">Professional Reports</h3>
+			            <p>Writing a professional report can sometimes be time consuming and stressful. This course will prepare you for general professional reports you may need to write at work or in school and provide you with a guide on how to write an effective report efficiently.</p>
+			        </div>
 			    </a>
 			
 			    <a href="../courses/courses_thesis.php">
-			    <div id ="c3" class="courses">
-			    <h3 id="c3title">Academy Thesis</h3>
-			    <p>If you are into research or want to pursue postgraduate education, you will likely encounter the need to write a thesis. This course will give you a head start and help you prepare for your future success.</p>
-			    </div>
+			        <div id ="c3" class="courses">
+			            <h3 id="c3title">Academy Thesis</h3>
+			            <p>If you are into research or want to pursue postgraduate education, you will likely encounter the need to write a thesis. This course will give you a head start and help you prepare for your future success.</p>
+			        </div>
 			    </a>
 		    </div>
 	    </div>

@@ -49,39 +49,36 @@ h1{
 
 /*The first row div includes image and introduction------------------*/
 .row1{
-	
-	margin-left:auto;
-	margin-right:auto;
+	margin:20px auto;
 	width:100%;
-	margin-top:100px;
-	margin-bottom:100px;
-
-	
-	
-	}
+}
 
 /*The second row div includes three courses sections------------------*/
 .row2{
-	
-	margin-left:auto;
-	margin-right:auto;
-	width:100%;
+	width: 100%;
+	margin: 10px auto;
 	padding:0;
 	text-align:center;
-	
-	}
+	display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
 
 /*Three courses section divs------------------------------*/	
 .courses{
 	border: 1px solid black;
 	display: inline-block;				/*inline three sections*/
-	vertical-align: middle;				/*align or line up three sections*/
-	width:25%;
-	height:250px;
+	vertical-align: top;				/*align or line up three sections*/
 	text-align:center;
-	margin:30px;
-	background-color:white;
-	}
+	margin: auto 30px;
+	background-color: white;
+    height: 100%;
+    flex: 1;
+}
+
+.courses p {
+    margin: 10px;
+}
 	
 /*Three courses' titles------------------------------*/	
 h3{
