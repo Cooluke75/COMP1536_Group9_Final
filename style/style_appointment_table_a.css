@@ -1,0 +1,75 @@
+/*-------set spaces between tables--------------*/
+#tale1, #tale2, #tale3, #tale4,#tale5{
+	
+	padding:20px;
+	padding-top:0px;
+	
+	}
+/*-----Background color for table 1----------*/
+#tale1{
+		background:#FF606E;}
+/*-----Background color for table 2----------*/
+#tale2{
+		background:#00DDD8;}
+/*-----Background color for table 3----------*/
+#tale3{
+		background:#262C3A;}
+/*-----Background color for table 4----------*/
+#tale4{
+		background:#517398;
+		}
+/*-----Background color for table 4----------*/
+#tale5{
+		background:#FF606E;}
+
+/*-------------------Set common features for five tables----*/		
+table{
+	border-collapse: collapse;									/*collapse borders of cells*/
+	margin:auto;
+	width:53%;
+	text-align:center;	
+	border:2px solid #000056;
+	table-layout: fixed;										/*Same format for five tables*/
+	}
+
+/*---------------Set padding for cells----------*/
+td, th{
+	padding:10px;
+	
+	
+	}
+
+/*----------------------Five tables' Captions (common features)------------------*/
+caption{
+	font-weight:bold;
+	font-size:1.5em;
+	padding:10px;
+	border:2px solid #000056;
+	border-bottom:0px;	
+	}
+/*------------------Color for caption 1------------------*/
+#caption1{
+	background-color:#FF606E;}
+/*------------------Color for caption 2------------------*/
+#caption2{
+	background-color:#00DDD8;}
+/*------------------Color for caption 3------------------*/
+#caption3{
+	background-color:#262C3A;
+	color:white;}
+/*------------------Color for caption 4------------------*/
+#caption4{
+	background-color:#517398;
+	color:white;}
+/*------------------Color for caption 5------------------*/
+#caption5{
+	background-color:#FF606E}
+/*---------------Color for even rows--------------------*/
+tr:nth-of-type(even){
+	background-color:#eaeaea;
+	}
+/*---------------Color for odd rows--------------------*/
+tr:nth-of-type(odd){
+	background-color:#ffffff;
+	
+	}

@@ -1,0 +1,116 @@
+body
+{
+    background-color: #333333;
+	background-image: url('../images/career_bg.jpg');
+    background-attachment: fixed;
+}
+
+#main-content {
+    background-color: rgba(100,100,100, 0.9);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+title {
+    margin-top: 20px;
+}
+
+#header {
+    margin-top: 20px;
+	text-align: center;
+    color: #ffffff;
+}
+
+#message {
+    color: #ffffff;
+}
+
+#career-form {
+    width: 90%;
+    margin: auto;
+    border: 1px solid red;
+}
+
+#career-form input, option {
+    padding: 5px;
+    height: 30px;
+}
+
+#career-form .hint {
+    visibility: hidden;
+    color: red;
+    font-size: .9em;
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+#career-form textarea {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#career-form label {
+    color:  #ffffff;
+    display: block;
+}
+
+#career-form fieldset {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(50,50,50, 0.5);
+}
+
+#career-form legend{
+    color:  #ffffff;
+    padding: 0 10px;
+}
+
+#career-form input[type=text], 
+#career-form input[type=email], 
+#career-form input[type=file], 
+#career-form select {
+	 width: 200px;
+     margin-bottom: 10px;
+}
+
+#career-form input[type=file] {
+    width: initial;
+    height: initial;
+    color:  #ffffff;
+}
+
+#career-form input[type=submit],
+#career-form input[type=reset] {
+    padding: 3px 20px;
+    margin: 15px;
+}
+
+.left{
+    width: 60%;
+    display: inline-block;
+    padding: 10px;
+}
+
+.required::after {
+    content: " *";
+    color: red;
+    font-weight: bold;
+}
+
+.right {
+    float: right;
+    width: 40%;
+    display: inline-block;
+	padding: 10px;
+}
+
+#career-form .right fieldset {
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.clear {
+    clear: both;
+}

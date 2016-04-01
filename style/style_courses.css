@@ -1,0 +1,77 @@
+/* COURSES Page ---------------------------------*/
+
+body{
+    /* Sources: https://wallpaperscraft.com/image/keyboard_half_close-up_80011_3840x2160.jpg */
+    background-image: url("../images/light-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center 25%;
+    
+}
+
+#main-content {
+	margin-top: 5em;
+}
+/* Left Side */
+.leftmaincontent {
+	float: left;
+}
+
+/* Title */
+.title {
+	font-size: 1em;
+	border: solid 3px #103350;
+	width: 713px;
+	height: 80px;
+	padding-left: 50px
+}
+
+.imageandrating {
+	float: left;
+	border: 3px #103350;
+	margin: 5px;
+}
+
+/*Tutor Description*/
+.tutordescrip {
+	border: solid 3px #103350;
+	padding: 0.5em 0.5em;
+	width: 500px;
+	text-align: center;
+	margin: 5px;
+	float: right;
+}
+
+.review {
+	clear: both;
+	border: solid 3px #103350;
+	width: 710px;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+	margin-bottom: 5em;
+}
+
+
+/* Right Side */
+#rightmaincontent {
+	float: right;
+    position: relative;
+    width: 250px;
+}
+
+.coursedescriptitle {
+	border: solid 3px #103350;
+	margin: 5px;
+	padding-left: 6px;
+}
+
+.coursedescrip {
+	border: solid 3px #103350;
+	margin: 5px;
+    padding: 0 0 0 1em;
+}
+
+ol {
+    padding: 10px;
+}

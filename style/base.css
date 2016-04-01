@@ -1,0 +1,203 @@
+/* Reset padding and margin */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+/* The wrapper for the whole page */
+#main-wrapper {
+    width: 100%;
+    margin: auto;
+    font-family: Montserrat, sans-serif;
+}
+
+/* The main header of the page */
+#main-header {
+    height: 140px;
+	background-color: white;
+	color: #365eb0;
+    position: relative;
+    
+    /* outside source */
+	background: #efefef;
+	background: -moz-linear-gradient(top, #bbbbbb 0%, #efefef 100%); 
+	background: -webkit-linear-gradient(top, #bbbbbb 0%, #efefef 100%);
+}
+
+#logo {
+    width: 10%;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#logo img {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#title {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10%;
+}
+
+#title h1 {
+    font-size: 3em;
+    text-transform: initial;
+    border: none;
+    width: initial;
+    letter-spacing: initial;
+}
+
+#title h1, #title h2 {
+    margin: 0px;
+}
+
+#signin {
+    float: right;
+    height: 100%;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+#signin legend {
+    color: #365eb0;
+    margin: 4px;
+    margin-left: 0px;
+}
+
+#signin input {
+    margin: 2px 5px 2px 0px;
+    padding: 2px;
+}
+
+#signin input[type=submit] {
+    padding: 2px 10px;
+}
+
+.wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	clear: both;
+}
+
+#navbar {
+    z-index: 10;
+	margin: 0;
+	padding: 0;
+    width: 100%;
+    box-shadow: 0px 10px 5px rgba(0,0,0,0.2);
+    background-color: #efefef;
+    text-align: center;
+}
+
+#navbar ul li:last-of-type {
+    box-shadow: 0px 10px 5px rgba(0,0,0,0.2);
+}
+
+#navbar li{
+    z-index: 1;
+	list-style-type: none;
+	width: 14%;
+	text-align: center;
+	position: relative;
+	color: #08090A;
+    background: #efefef;
+	display: inline-block;
+}
+
+#navbar li.subject {
+    width: 100%;
+}
+
+#navbar li a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 0;
+}
+
+#navbar a:link, #navbar a:visited {
+    color: #365eb0;
+}
+
+#navbar a:hover {
+	color: #efefef;
+    background-color: #365eb0;
+}
+
+#navbar ul {
+	list-style-type: none;
+	display: none;
+    position: absolute;
+    left: 0;
+    top:  100%;
+}
+
+/* appear to the side of list bar */
+#navbar ul ul {
+	display: none;
+	position: absolute;
+	left: 100%;
+	top: 0;
+    width: 100%;
+}
+
+#navbar ul ul li {
+    width: 100%;
+}
+
+#navbar li:hover > ul {
+	display: block;
+}
+
+/* Division containing the whole content */
+#main-content {
+    width: 1000px;
+    margin: auto;
+}
+
+
+/* The main footer of the page */
+#main-footer {
+    width: 100%;
+	text-align: center;
+	letter-spacing: 3px;
+	margin: 0px auto;
+	padding: 20px 0px;
+	background-color: #365eb0;
+	color:#ffffff;
+    clear: both;
+}
+
+#main-footer p {
+    margin: 10px;
+}
+
+#main-footer a {
+    text-decoration: none;
+}
+
+#main-footer a:link, #main-footer a:visited {
+    color: #FFFFFF;
+}
+
+#main-footer a:hover {
+    color: #F7624A;
+}

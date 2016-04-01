@@ -1,0 +1,136 @@
+body {
+    background-image: url("../images/light-background2.jpg");
+    background-repeat: no-repeat;
+}
+/* SUBJECT Page ---------------------------------*/
+
+.content{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	background-color: #D2DBE2;
+	opacity: 0.8;
+
+}
+
+header {
+    clear: both;
+    position: relative;
+    top: 20px;
+}
+
+/*Subject title---------------------------*/
+h1{
+	font-size: 2.2em;
+	border-bottom: solid 1px #ccc;
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+}
+
+/*Image-------------------------------*/
+#imag{
+	border: 1px solid black; 
+	width:400px;
+	height:200px;
+	display: inline-block;           /*inline image and introduction*/
+	vertical-align: middle;			/*align or line up image and introduction*/
+	float: right;
+	}
+
+/*Introduction-----------------------------*/
+#intro{
+	max-width:70%;
+	height:100%;
+	display: inline-block;					/*inline image and introduction*/
+	vertical-align: middle;					/*align or line up image and introduction*/
+	text-align:left;						/*left text of introduction*/
+	margin-left:100px;
+	}
+
+/*The first row div includes image and introduction------------------*/
+.row1{
+	
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+	margin-top:100px;
+	margin-bottom:100px;
+
+	
+	
+	}
+
+/*The second row div includes three courses sections------------------*/
+.row2{
+	
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+	padding:0;
+	text-align:center;
+	
+	}
+
+/*Three courses section divs------------------------------*/	
+.courses{
+	border: 1px solid black;
+	display: inline-block;				/*inline three sections*/
+	vertical-align: middle;				/*align or line up three sections*/
+	width:25%;
+	height:250px;
+	text-align:center;
+	margin:30px;
+	background-color:white;
+	}
+	
+/*Three courses' titles------------------------------*/	
+h3{
+	border:1px solid black;
+    margin-top:0;
+    padding:15px
+}
+
+/*The first course title------------------------------*/
+#c1title{
+		background:#A0FB71;
+		}
+		
+/*The second course title------------------------------*/
+#c2title{
+		background:#58F8AB;
+
+		}
+		
+/*The third course title------------------------------*/
+#c3title{
+		background:#12F6E9;
+
+		}
+/*Hover the first course title ------------------------------*/
+#c1:hover{
+	background-color:#2F8F75;
+	color:#EBFF33;
+	}
+/*Hover the second course title ------------------------------*/
+#c2:hover{
+	background-color:#2F8F75;
+	color:#EBFF33;
+}
+/*Hover the third course title ------------------------------*/
+#c3:hover{
+	background-color:#2F8F75;
+	color:#EBFF33;
+}
+
+#footer{
+	
+	width:100%;
+	text-align:center;
+	letter-spacing: 3px;
+	font-weight:bold;
+	margin-bottom:0px;
+	padding: 20px;
+	background-color:#003C79;
+	color:#ffffff;
+}

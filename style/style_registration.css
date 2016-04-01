@@ -1,0 +1,65 @@
+/* REGISTRATION Popup Page ---------------------------------*/
+
+.reg_pop {
+	width: 475px;
+    margin: auto;
+}
+
+form#regForm legend {
+    font-style: italic; 
+}
+
+form#regForm input[type=text],
+form#regForm input[type=email],
+form#regForm input[type=password],
+form#regForm input[type=radio] {
+	padding: 0.8em 1em;
+    margin: 0.5em 0.7em;
+    border: 1px solid #b3abb9;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+form#regForm input[type=text]:focus, 
+form#regForm input[type=email]:focus, 
+form#regForm input[type=password]:focus {
+    border: 3px solid;
+}
+
+form#regForm input[name=email],
+form#regForm input[name=school],
+form#regForm input[name=major],
+form#regForm input[name=password_0], 
+form#regForm input[name=password_1] {
+	width: 95%;
+}
+
+form#regForm input[type=submit],
+form#regForm button[type=reset] {
+    background-color: #305ff6;
+    color: white;
+    padding: 1em 1.5em;
+    margin: 0.5em 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form#regForm span {
+	font-size: 0.75em;
+	margin-left: 1em;
+	display: inline-block;
+	color:red;
+}
+
+form#regForm .hintPasswordValid{
+	font-size: 0.75em;
+	margin-left: 1em;
+	color: #b3abb9;
+	display: inline-block;
+	
+}
+
+.modal-dialog {
+    width: 600px;
+}

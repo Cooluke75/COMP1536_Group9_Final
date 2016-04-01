@@ -1,0 +1,61 @@
+body{
+    background-image: url("../images/about_background.jpg");
+	color: black;
+}
+
+
+#main-content {
+    margin-top: 40px;
+}
+
+#content-title {
+    margin: 20px;
+	text-align: center;
+	color: white;
+}
+
+#wrapper1{
+	border: 1em solid gray;
+    padding: 40px;
+    background-color: white;
+
+}
+#wrapper2{
+	border: 1em solid #4d505B;
+	padding: 40px;
+	background-color: white;
+
+}
+
+.clear {
+    clear: both;
+}
+
+
+#introduction{ 
+	text-align: left;
+	border: solid 0.1em;
+}
+#history {
+	margin-top: 15px;
+	text-align: left;
+	border: solid 0.1em;
+}
+#image1 {
+	float: left;
+    margin: 40px;
+}
+#image2 {
+	float: right;
+    margin: 40px;
+}
+
+#introduction img, #history img {
+   padding:1em;
+   border:5px solid #021a40;
+}
+#founder_list{
+	color: green;
+	list-style-type: none;
+	margin-left: 300px;
+}
