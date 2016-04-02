@@ -75,8 +75,3 @@ a {
     display: inline-block;
     color: red;
 }
-
-#main-footer {
-    clear: both;
-    position: relative;
-}

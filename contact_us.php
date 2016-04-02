@@ -86,6 +86,7 @@
 						<input type="submit">
 					</form>
 				</div>
+                <br class="clear">
 			</div>
 
 			<!-- Main Footer -->

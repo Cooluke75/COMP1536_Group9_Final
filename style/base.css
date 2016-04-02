@@ -4,7 +4,14 @@
     margin: 0px;
 }
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 body {
+    margin: 0px 0px 100px;
+    background-position: center 0%;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -19,7 +26,13 @@ body {
     width: 100%;
     min-width: 768px;
     margin: auto;
+    padding-bottom: 20px;
     font-family: Montserrat, sans-serif;
+    margin-bottom: 100px;
+}
+
+.clear {
+    clear: both;
 }
 
 /* The main header of the page */
@@ -172,12 +185,16 @@ body {
 /* Division containing the whole content */
 #main-content {
     max-width: 1000px;
+    min-height: 100%;
     margin: auto;
 }
 
 
 /* The main footer of the page */
 #main-footer {
+    position: absolute;
+    bottom: 0;
+    height: 100px;
     width: 100%;
 	text-align: center;
 	letter-spacing: 3px;

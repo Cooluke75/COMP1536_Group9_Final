@@ -84,6 +84,7 @@
 		        <button type="button" onclick="location.href='http://<?php echo $root; ?>tables/table_computer_science.php'">Book now</button>
 	        </div>
         </div>
+        <br class="clear">
 
 <?php
     include("../config.php");

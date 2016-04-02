@@ -81,7 +81,7 @@
 		        <button type="button" onclick="location.href='http://<?php echo $root; ?>tables/table_math.php'">Book now</button>
 	        </div>
         </div>
-
+        <br class="clear">
 <?php
     include("../config.php");
     include(ROOT."footer.php");
