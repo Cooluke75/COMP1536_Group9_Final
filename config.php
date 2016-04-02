@@ -6,5 +6,5 @@
     define('HOMEURL', 'http://students.bcitdev.com/A00006470/forum/index.php');
 
     define('ROOT', __DIR__ .'/');
-    $root = $_SERVER['HTTP_HOST'] . '/A00878366/G9/';
+    $root = $_SERVER['HTTP_HOST'] . '/A00974011/Comp1536/';
 ?>
