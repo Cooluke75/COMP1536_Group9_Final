@@ -116,7 +116,7 @@
 	    <!-- navigation -->
 	    <div class="wrapper">
 	        <ul id="navbar">
-		        <li><a href="http://<?php echo $root; ?>index.php">Home Page</a></li>
+		        <li><a href="http://<?php echo $root; ?>index.php">Home</a></li>
 		        <li><a href="#">Subjects</a>
 			        <ul>
 				        <li class="subject"><a href="http://<?php echo $root; ?>subjects/subject_economy.php">Economics</a>
