@@ -4,12 +4,11 @@ body {
 /* SUBJECT Page ---------------------------------*/
 
 .content{
-	margin-left:auto;
-	margin-right:auto;
-	width:80%;
+	margin: 20px auto;
+	width:100%;
 	background-color: #D2DBE2;
 	opacity: 0.8;
-
+    padding: 20px;
 }
 
 header {
@@ -29,35 +28,31 @@ h1{
 
 /*Image-------------------------------*/
 #imag{
-	border: 1px solid black; 
-	width:400px;
-	height:200px;
 	display: inline-block;           /*inline image and introduction*/
 	vertical-align: middle;			/*align or line up image and introduction*/
 	float: right;
+    padding: 30px;
 	}
 
 /*Introduction-----------------------------*/
 #intro{
-	max-width:70%;
-	height:100%;
 	display: inline-block;					/*inline image and introduction*/
 	vertical-align: middle;					/*align or line up image and introduction*/
 	text-align:left;						/*left text of introduction*/
-	margin-left:100px;
-	}
+}
 
 /*The first row div includes image and introduction------------------*/
 .row1{
 	margin:20px auto;
 	width:100%;
+    padding: 0 50px;
 }
 
 /*The second row div includes three courses sections------------------*/
 .row2{
 	width: 100%;
 	margin: 10px auto;
-	padding:0;
+	padding: 0 50px;
 	text-align:center;
 	display: -webkit-flex;
     display: -ms-flexbox;

@@ -17,6 +17,7 @@ body {
 /* The wrapper for the whole page */
 #main-wrapper {
     width: 100%;
+    min-width: 768px;
     margin: auto;
     font-family: Montserrat, sans-serif;
 }
@@ -170,7 +171,7 @@ body {
 
 /* Division containing the whole content */
 #main-content {
-    width: 1000px;
+    max-width: 1000px;
     margin: auto;
 }
 

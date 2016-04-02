@@ -2,7 +2,8 @@ body
 {
     background-color: #333333;
 	background-image: url('../images/career_bg.jpg');
-    background-attachment: fixed;
+    background-position: center 0%;
+    background-size: 100%;
 }
 
 #main-content {

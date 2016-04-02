@@ -38,49 +38,49 @@
     include("../config.php");
     include(ROOT."header.php");
 ?>
+            <!-- Main content section -->
+            <div id="main-content">
+	            <header>
+	                <h1>Fitness</h1>
+	            </header>
 
-	    <header>
-	        <h1>Fitness</h1>
-	    </header>
-
-	    <div class="content">
+	            <div class="content">
 		
-		    <div class ="row1">
-			    <div id ="imag">
-				    <img src="images/subject_fitness.jpg" alt="Subject name" width="400" height="200"/>
-			    </div>
-			
-			    <div id ="intro">
-			    <h2>The road to being the most fit you’ve ever been starts here</h2>
-			    <p><br>Here at A+ Academy, not only do we look to improve your mental strength, but also your physical strength. With options like sports, weight training and dance you have a variety of ways to get the healthy physique you deserve.  <br><br>Through the internet we can help you achieve your fitness goals at a time suitable to your schedule. We’re dedicated to developing the most effective training programs just for you and we strive to help you become the fittest you can be! <br><br></p>
-			    
-			    </div>
-		    </div>
+		            <div class ="row1">
+			            <div id ="intro">
+                            <div id ="imag">
+				                <img src="images/subject_fitness.jpg" alt="Subject name" width="400" height="200"/>
+			                </div>
+			                <h2>The road to being the most fit you’ve ever been starts here</h2>
+			                <p><br>Here at A+ Academy, not only do we look to improve your mental strength, but also your physical strength. With options like sports, weight training and dance you have a variety of ways to get the healthy physique you deserve.  <br><br>Through the internet we can help you achieve your fitness goals at a time suitable to your schedule. We’re dedicated to developing the most effective training programs just for you and we strive to help you become the fittest you can be! <br><br></p>			    
+			            </div>
+		            </div>
 
-		    <div class="row2">
+		            <div class="row2">
 			
-			    <a href="../courses/courses_sports.php">
-			    <div id ="c1" class="courses">
-			    <h3 id="c1title">Sports</h3>
-			    <p>From basketball to badminton to football, our experts offer training advice on how to improve your game as well as in-depth analysis to possible flaws in your performance.</p>
-			    </div>
-			    </a>
+			            <a href="../courses/courses_sports.php">
+			            <div id ="c1" class="courses">
+			            <h3 id="c1title">Sports</h3>
+			            <p>From basketball to badminton to football, our experts offer training advice on how to improve your game as well as in-depth analysis to possible flaws in your performance.</p>
+			            </div>
+			            </a>
 			
-			    <a href="../courses/courses_weight_training.php">
-			    <div id ="c2" class="courses">
-			    <h3 id="c2title">Weight Training</h3>
-			    <p>Build lean, ripped athletic muscle with our certified coaches who provide some of the best training out there. From building serious muscle to getting that six pack you’ve always wanted. We are here to help.</p>
-			    </div>
-			    </a>
+			            <a href="../courses/courses_weight_training.php">
+			            <div id ="c2" class="courses">
+			            <h3 id="c2title">Weight Training</h3>
+			            <p>Build lean, ripped athletic muscle with our certified coaches who provide some of the best training out there. From building serious muscle to getting that six pack you’ve always wanted. We are here to help.</p>
+			            </div>
+			            </a>
 			
-			    <a href="../courses/courses_dance.php">
-			    <div id ="c3" class="courses">
-			    <h3 id="c3title">Dance</h3>
-			    <p>Want to get fit in a fun and exciting way? We offer lessons on Zumba for fitness or Ballet for the more technical aspect of dance. Our Instructors will make sure to give you the best you can get from exercising with dance.</p>
-			    </div>
-			    </a>
-		    </div>
-	    </div>
+			            <a href="../courses/courses_dance.php">
+			            <div id ="c3" class="courses">
+			            <h3 id="c3title">Dance</h3>
+			            <p>Want to get fit in a fun and exciting way? We offer lessons on Zumba for fitness or Ballet for the more technical aspect of dance. Our Instructors will make sure to give you the best you can get from exercising with dance.</p>
+			            </div>
+			            </a>
+		            </div>
+	            </div>
+            </div>
 
 	    <!-- Main Footer -->
 <?php

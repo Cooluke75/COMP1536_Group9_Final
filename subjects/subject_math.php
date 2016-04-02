@@ -33,27 +33,26 @@
 
     <body>
         <div id="main-wrapper">
-        
+            <!-- Main Header -->
 <?php
     include("../config.php");
     include(ROOT."header.php");
 ?>
+            <!-- Main content section -->
+            <div id="main-content">
+	            <header>
+	                <h1>Math</h1>
+	            </header>
 
-	    <header>
-	        <h1>Math</h1>
-	    </header>
-
-	    <div class="content">
+	            <div class="content">
 		
 		    <div class ="row1">
-			    <div id ="imag">
-				    <img src="../images/subject_math.jpg" alt="Subject name" width="400" height="200"/>
-			    </div>
-			
 			    <div id ="intro">
-			    <h2>A place to boost your math grade!</h2>
-			    <p><br>Working on math homework now? We can help. Our math tutors are experts at Algebra, Calculus, Matirx, and everything in between.They’ll help with everything math class throws at you. <br><br>Whether you're still learning the basics or mastering more difficult concepts, we're ready to help. Sign up now and it is easy to Boost Your Math Grade.<br><br></p>
-			    
+                    <div id ="imag">
+				        <img src="../images/subject_math.jpg" alt="Subject name" width="400" height="200"/>
+			        </div>
+			        <h2>A place to boost your math grade!</h2>
+			        <p><br>Working on math homework now? We can help. Our math tutors are experts at Algebra, Calculus, Matirx, and everything in between.They’ll help with everything math class throws at you. <br><br>Whether you're still learning the basics or mastering more difficult concepts, we're ready to help. Sign up now and it is easy to Boost Your Math Grade.<br><br></p>
 			    </div>
 		    </div>
 
@@ -81,6 +80,9 @@
 			    </a>
 		    </div>
 	    </div>
+            </div>
+
+            <!-- Main footer -->
 <?php
     include("../config.php");
     include(ROOT."footer.php");
