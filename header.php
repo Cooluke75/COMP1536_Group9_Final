@@ -6,7 +6,7 @@
         <div id="main-header">
 
             <div id="logo">
-                <a href="http://<?php echo $root; ?>index.php"><img src="images/logo.png" height="80" width="80" alt="A+ Logo"></a>
+                <a href="http://<?php echo $root; ?>index.php"><img src="http://<?php echo $root; ?>images/logo.png" height="80" width="80" alt="A+ Logo"></a>
             </div>
 		        
 		    <div id="title">
